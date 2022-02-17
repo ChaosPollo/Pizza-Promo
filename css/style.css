@@ -390,3 +390,9 @@ ul {
         width: 350px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .server-image img {
+        width: 200px;
+    }  
+}
